@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently developing with SQL for more backend support.
 
-- 📫 You can reach me via https://www.linkedin.com/in/nicholasbojor/
+- 📫 You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-nicholasbojor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasbojor/)
